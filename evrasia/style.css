@@ -1,0 +1,1160 @@
+body{
+	background-image:url(image/bgim.png);
+}
+
+.top_menu{
+	background-color:#454545;
+	width:100%;
+	height:70px;
+	position:relative;
+	border:2px solid #000;
+}
+h1{
+	color:#fff;
+	position	: relative;
+	margin-left:50px;
+	text-shadow:4px 2px 3px black;
+}
+.image {
+	position	: relative;
+}
+.img{
+	position	: relative;
+	margin-top:10px;
+	border-radius:20px;
+	border:2px solid #000;
+	margin-left:30px;
+	text-decoration:none;
+}
+.one {
+	position	: absolute;
+	top		: 425px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.two {
+	position	: absolute;
+	top		: 410px;
+	left	: 300px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.three {
+	position	: absolute;
+	top		: 500px;
+	left	: 450px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.four {
+	position	: absolute;
+	top		: 665px;
+	left	: 725px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.five {
+	position	: absolute;
+	top		: 540px;
+	left	: 300px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.six {
+	position	: absolute;
+	top		: 925px;
+	left	: 475px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seven {
+	position	: absolute;
+	top		: 800px;
+	left	: 1060px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eight {
+	position	: absolute;
+	top		: 610px;
+	left	: 725px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.nine {
+	position	: absolute;
+	top		: 925px;
+	left	: 1200px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ten {
+	position	: absolute;
+	top		: 775px;
+	left	: 950px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eleven {
+	position	: absolute;
+	top		: 620px;
+	left	: 1040px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twelve {
+	position	: absolute;
+	top		: 370px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threety {
+	position	: absolute;
+	top		: 470px;
+	left	: 150px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourty {
+	position	: absolute;
+	top		: 700px;
+	left	: 600px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivety {
+	position	: absolute;
+	top		: 900px;
+	left	: 1000px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixty {
+	position	: absolute;
+	top		: 425px;
+	left	: 200px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventy {
+	position	: absolute;
+	top		: 450px;
+	left	: 250px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eighty {
+	position	: absolute;
+	top		: 500px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninety {
+	position	: absolute;
+	top		: 650px;
+	left	: 200px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twenty {
+	position	: absolute;
+	top		: 375px;
+	left	: 550px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentyone {
+	position	: absolute;
+	top		: 760px;
+	left	: 900px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentytwo {
+	position	: absolute;
+	top		: 590px;
+	left	: 310px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentythree {
+	position	: absolute;
+	top		: 375px;
+	left	: 200px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentyfour {
+	position	: absolute;
+	top		: 475px;
+	left	: 600px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentyfive {
+	position	: absolute;
+	top		: 550px;
+	left	: 850px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentysix {
+	position	: absolute;
+	top		: 950px;
+	left	: 725px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentyseven {
+	position	: absolute;
+	top		: 430px;
+	left	: 1050px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentyeight {
+	position	: absolute;
+	top		: 480px;
+	left	: 1075px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.twentynine {
+	position	: absolute;
+	top		: 490px;
+	left	: 280px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetyy {
+	position	: absolute;
+	top		: 700px;
+	left	: 900px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetyone {
+	position	: absolute;
+	top		: 420px;
+	left	: 150px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetytwo {
+	position	: absolute;
+	top		: 650px;
+	left	: 990px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetythree {
+	position	: absolute;
+	top		: 820px;
+	left	: 850px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetyfour {
+	position	: absolute;
+	top		: 850px;
+	left	: 500px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetyfive {
+	position	: absolute;
+	top		: 420px;
+	left	: 800px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetysix {
+	position	: absolute;
+	top		: 670px;
+	left	: 800px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetyseven {
+	position	: absolute;
+	top		: 620px;
+	left	: 650px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	background-color:white;
+	
+}
+.threetyeight {
+	position	: absolute;
+	top		: 610px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.threetynine {
+	position	: absolute;
+	top		: 650px;
+	left	: 310px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+
+.fourtyy {
+	position	: absolute;
+	top		: 570px;
+	left	: 470px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtyone {
+	position	: absolute;
+	top		: 950px;
+	left	: 850px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtytwo {
+	position	: absolute;
+	top		: 550px;
+	left	: 220px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtythree{
+	position	: absolute;
+	top		: 880px;
+	left	: 920px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtyfour {
+	position	: absolute;
+	top		: 400px;
+	left	: 250px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtyfive {
+	position	: absolute;
+	top		: 470px;
+	left	: 510px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtysix {
+	position	: absolute;
+	top		: 730px;
+	left	: 850px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtyseven {
+	position	: absolute;
+	top		: 450px;
+	left	: 430px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtyeight {
+	position	: absolute;
+	top		: 350px;
+	left	: 250px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fourtynine {
+	position	: absolute;
+	top		: 420px;
+	left	: 480px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetyy {
+	position	: absolute;
+	top		: 730px;
+	left	: 1130px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetyone {
+	position	: absolute;
+	top		: 820px;
+	left	: 610px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetytwo {
+	position	: absolute;
+	top		: 400px;
+	left	: 1190px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetythree {
+	position	: absolute;
+	top		: 350px;
+	left	: 300px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetyfour {
+	position	: absolute;
+	top		: 550px;
+	left	: 550px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetyfive {
+	position	: absolute;
+	top		: 600px;
+	left	: 1090px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+
+.fivetysix {
+	position	: absolute;
+	top		: 315px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+
+.fivetyseven {
+	position	: absolute;
+	top		: 175px;
+	left	: 200px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetyeight {
+	position	: absolute;
+	top		: 145px;
+	left	: 370px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.fivetynine {
+	position	: absolute;
+	top		: 270px;
+	left	: 170px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtyy {
+	position	: absolute;
+	top		: 120px;
+	left	: 120px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtyone {
+	position	: absolute;
+	top		: 225px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtytwo {
+	position	: absolute;
+	top		: 100px;
+	left	: 220px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtythree {
+	position	: absolute;
+	top		: 300px;
+	left	: 210px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtyfour {
+	position	: absolute;
+	top		: 245px;
+	left	: 190px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+
+.sixtysix {
+	position	: absolute;
+	top		: 50px;
+	left	: 260px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtyseven {
+	position	: absolute;
+	top		: 200px;
+	left	: 240px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtyeight {
+	position	: absolute;
+	top		: 135px;
+	left	: 200px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.sixtynine {
+	position	: absolute;
+	top		: 60px;
+	left	: 210px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventyy {
+	position	: absolute;
+	top		: 90px;
+	left	: 20px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventyone {
+	position	: absolute;
+	top		: 300px;
+	left	: 150px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventytwo {
+	position	: absolute;
+	top		: 120px;
+	left	: 300px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventythree {
+	position	: absolute;
+	top		: 80px;
+	left	: 190px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventyfour {
+	position	: absolute;
+	top		: 20px;
+	left	: 235px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventysix {
+	position	: absolute;
+	top		: 105px;
+	left	: 80px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventyseven {
+	position	: absolute;
+	top		: 225px;
+	left	: 150px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventyeight {
+	position	: absolute;
+	top		: 235px;
+	left	: 230px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.seventynine {
+	position	: absolute;
+	top		: 175px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightyy {
+	position	: absolute;
+	top		: 190px;
+	left	: 315px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightytwo {
+	position	: absolute;
+	top		: 108px;
+	left	: 190px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightythree {
+	position	: absolute;
+	top		: 270px;
+	left	: 220px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightyfour {
+	position	: absolute;
+	top		: 270px;
+	left	: 90px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightyfive {
+	position	: absolute;
+	top		: 290px;
+	left	: 280px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightysix {
+	position	: absolute;
+	top		: 167px;
+	left	: 150px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightyeight {
+	position	: absolute;
+	top		: 105px;
+	left	: 260px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.eightynine {
+	position	: absolute;
+	top		: 90px;
+	left	: 350px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetyy {
+	position	: absolute;
+	top		: 160px;
+	left	: 280px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetyone {
+	position	: absolute;
+	top		: 55px;
+	left	: 70px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+
+.ninetythree {
+	position	: absolute;
+	top		: 255px;
+	left	: 700px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetyfour {
+	position	: absolute;
+	top		: 260px;
+	left	: 260px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetyfive {
+	position	: absolute;
+	top		: 190px;
+	left	: 160px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetysix {
+	position	: absolute;
+	top		: 295px;
+	left	: 245px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetyseven {
+	position	: absolute;
+	top		: 220px;
+	left	: 280px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetyeight {
+	position	: absolute;
+	top		: 213px;
+	left	: 213px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.ninetynine {
+	position	: absolute;
+	top		: 275px;
+	left	: 320px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.oneh {
+	position	: absolute;
+	top		: 20px;
+	left	: 355px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.onehone {
+	position	: absolute;
+	top		: 155px;
+	left	: 450px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.onehtwo {
+	position	: absolute;
+	top		: 100px;
+	left	: 153px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.onehthree {
+	position	: absolute;
+	top		: 220px;
+	left	: 190px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.onehfive {
+	position	: absolute;
+	top		: 160px;
+	left	: 240px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.onehsix {
+	position	: absolute;
+	top		: 137px;
+	left	: 160px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.onehseven {
+	position	: absolute;
+	top		: 115px;
+	left	: 430px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.oneheight {
+	position	: absolute;
+	top		: 180px;
+	left	: 385px;
+	border	: 2px solid #000;
+	border-radius:50px;
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	
+}
+
+
+
+
